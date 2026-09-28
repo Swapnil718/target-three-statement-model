@@ -1,2 +1,2 @@
-# target-three-statement-model
+# **Target-Three-statement-model**
 Excel three-statement financial model of Target Corporation using historical filings and assumption-based forecasts.
