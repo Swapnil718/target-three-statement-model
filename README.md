@@ -63,6 +63,3 @@ The FY2026 forecast shows **5.0% sales growth** and **$1,864 million more free c
 - [Target Corporation 2025 Annual Report](https://corporate.target.com/investors/annual/2025-annual-report) — historical financial statements
 - [Target Q2 2026 earnings release](https://corporate.target.com/press/release/2026/08/target-corporation-reports-second-quarter-earnings) — context noted in the workbook
 
-## ⚠️ Model Scope
-
-This is an educational portfolio model. The FY2026–FY2028 figures depend on simplified assumptions, including constant debt and lease balances and interest modeled as a percentage of sales. They should not be treated as investment advice or Target's official outlook.
